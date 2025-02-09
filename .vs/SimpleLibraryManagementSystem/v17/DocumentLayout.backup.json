@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\work\\source\\repos\\SimpleLibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3074E0C0-ECF7-4939-9B6E-54346CB53EF2}|SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem.csproj|c:\\users\\work\\source\\repos\\simplelibrarymanagementsystem\\simplelibrarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3074E0C0-ECF7-4939-9B6E-54346CB53EF2}|SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem.csproj|solutionrelative:simplelibrarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3074E0C0-ECF7-4939-9B6E-54346CB53EF2}|SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem.csproj|c:\\users\\work\\source\\repos\\simplelibrarymanagementsystem\\simplelibrarymanagementsystem\\simplelibrarymanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3074E0C0-ECF7-4939-9B6E-54346CB53EF2}|SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem.csproj|solutionrelative:simplelibrarymanagementsystem\\simplelibrarymanagementsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleLibraryManagementSystem",
+              "DocumentMoniker": "C:\\Users\\work\\source\\repos\\SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\work\\source\\repos\\SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem.csproj",
+              "RelativeToolTip": "SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T07:01:08.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\work\\source\\repos\\SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleLibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\work\\source\\repos\\SimpleLibraryManagementSystem\\SimpleLibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "SimpleLibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:26:10.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

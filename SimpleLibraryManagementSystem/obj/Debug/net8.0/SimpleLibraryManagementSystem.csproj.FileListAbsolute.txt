@@ -1,0 +1,17 @@
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\bin\Debug\net8.0\SimpleLibraryManagementSystem.exe
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\bin\Debug\net8.0\SimpleLibraryManagementSystem.deps.json
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\bin\Debug\net8.0\SimpleLibraryManagementSystem.runtimeconfig.json
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\bin\Debug\net8.0\SimpleLibraryManagementSystem.dll
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\bin\Debug\net8.0\SimpleLibraryManagementSystem.pdb
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\SimpleLibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\SimpleLibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\SimpleLibraryManagementSystem.AssemblyInfo.cs
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\SimpleLibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\SimpleLibraryManagementSystem.dll
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\refint\SimpleLibraryManagementSystem.dll
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\SimpleLibraryManagementSystem.pdb
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\SimpleLibraryManagementSystem.genruntimeconfig.cache
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\ref\SimpleLibraryManagementSystem.dll
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\bin\Debug\net8.0\Pastel.dll
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\SimpleLibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\work\source\repos\SimpleLibraryManagementSystem\SimpleLibraryManagementSystem\obj\Debug\net8.0\SimpleLi.45DD37C3.Up2Date
